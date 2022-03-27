@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Andromeda</string>
+    <string name="text_timer">60</string>
+    <string name="tap_button">Tap Button</string>
+    <string name="current_tap_text_view">0</string>
+</resources>
