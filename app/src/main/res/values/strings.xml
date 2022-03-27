@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Andromeda</string>
     <string name="text_timer">60</string>
-    <string name="tap_button">Tap Button</string>
+    <string name="tap_button">Push</string>
     <string name="current_tap_text_view">0</string>
+    <string name="high_score_title">HighScore</string>
+    <string name="high_score">0</string>
+    <string name="last_score_title">LastScore:</string>
+    <string name="last_score">0</string>
 </resources>
